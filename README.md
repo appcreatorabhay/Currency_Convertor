@@ -4,12 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![WhatsApp Image 2024-03-20 at 00 13 05_9440f8ba](https://github.com/appcreatorabhay/Currency_Convertor/assets/127887672/5f5e8d0b-0b69-4a6e-9668-6fa3d035ac7d)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
